@@ -12,3 +12,5 @@ For the use of the HYPAGS executeable:
 This is a stand-alone GUI. No installation required.
 
 In case of arising problems or suppert, please contact me at aaron.peche@bgr.de
+
+The python code of the GUI is also provided in this repository
