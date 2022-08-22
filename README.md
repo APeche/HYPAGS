@@ -1,5 +1,5 @@
 #HYPAGS
-Current version of the HYPAGS model
+Current version of the HYPAGS model and GUI executeable can be downloaded here:
 https://github.com/APeche/HYPAGS/releases/tag/Version1.2.2
 
 For the use of the HYPAGS executeable do the following steps:
