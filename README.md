@@ -1,4 +1,8 @@
 #HYPAGS
+
+![HYPAGS](https://user-images.githubusercontent.com/11518814/185891201-7e94ed60-8650-43b2-91f9-ee290c9effe9.png)
+
+
 Current version of the HYPAGS model and GUI executeable can be downloaded here:
 https://github.com/APeche/HYPAGS/releases/tag/Version1.2.2
 
@@ -18,4 +22,3 @@ This is a stand-alone GUI. No installation required.
 In case of arising problems or need of support, please contact me at aaron.peche@bgr.de
 
 The python code of the GUI is also provided in this repository
-![HYPAGS](https://user-images.githubusercontent.com/11518814/185891082-3554fa31-0943-447d-97c1-5881b51de09b.png)
