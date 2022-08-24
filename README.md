@@ -22,3 +22,6 @@ This is a stand-alone GUI. No installation required.
 In case of arising problems or need of support, please contact me at aaron.peche@bgr.de
 
 The python code of the GUI is also provided in this repository
+
+
+![HYPAGS_GUI_Screenshots](https://user-images.githubusercontent.com/11518814/186346631-f1a8cf45-4f84-4571-bd16-3acb72b97f9d.png)
