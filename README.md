@@ -15,7 +15,7 @@ For the use of the HYPAGS executeable do the following steps:
 	
 	
 The mathematical model, application range and use of the program described in:
-Peche A., & Houben, G. (in review). Estimating characteristic grain diameters and effective porosity from hydraulic conductivity data. Groundwater, Wiley.
+Peche A., & Houben, G. (2022). Estimating characteristic grain diameters and effective porosity from hydraulic conductivity data. Groundwater, Wiley, https://doi.org/10.1111/gwat.13266.
 
 This is a stand-alone GUI. No installation required.
 
