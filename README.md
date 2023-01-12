@@ -29,4 +29,3 @@ The python code of the GUI is also provided in this repository
 Some aspects about the installation, practical use and insights are given in this video tutorial:
 
 https://www.youtube.com/watch?v=ikfyq0YEe2Y
-
