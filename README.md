@@ -9,7 +9,7 @@ https://github.com/APeche/HYPAGS/releases/tag/Version1.2.2
 For the use of the HYPAGS executeable do the following steps:
 
     (1) Download HYPAGS.exe and Source code (zip) from here: https://github.com/APeche/HYPAGS/releases/tag/Version1.2.2
-	  (2) In source code (zip), you will find a folder HYPAGS_dependencies
+    (2) In source code (zip), you will find a folder HYPAGS_dependencies
     (3) Store HYPAGS.exe somewhere on your computer and store folder HYPAGS_dependencies in the same directory as HYPAGS.exe
     (4) Simply click on HYPAGS.exe. It should open. 
 	
@@ -25,3 +25,8 @@ The python code of the GUI is also provided in this repository
 
 
 ![HYPAGS_GUI_Screenshots](https://user-images.githubusercontent.com/11518814/186346631-f1a8cf45-4f84-4571-bd16-3acb72b97f9d.png)
+
+Some aspects about the installation, practical use and insights are given in this video tutorial:
+
+https://www.youtube.com/watch?v=ikfyq0YEe2Y
+
