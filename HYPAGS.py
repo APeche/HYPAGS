@@ -166,7 +166,7 @@ def main():
     def about():
         global my_img
         top = Toplevel()
-        citeas = 'The HYPAGS model is described in: Peche A., & Houben, G. (in review).\n Reverse engineering representative grain diameters and \n effective porosity from hydraulic conductivity data. Groundwater, Wiley.'
+        citeas = 'The HYPAGS model is described in: Peche A., & Houben, G. (2022).\n Estimating Characteristic Grain Sizes\n and Effective Porosity from Hydraulic Conductivity Data.\n Groundwater, Wiley, DOI: 10.1111/gwat.13266.'
         info = 'HYPAGS GUI (Version 1.2.2) - Aaron Peche, Georg Houben, \n Federal Institute for Geosciences and Natural Resources, 2022.'
         info2 = 'HYPAGS (HYdraulic Parameters And Grain Sizes) model enables to retrieve \n virtual sieve curves (by means of representative grain sizes \n d10, d20, d50, d60 [m]) and hydraulically relevant parameters effective \n porosity ne [-] and hydraulic conductivity K [m/s] by single input values of K, d10, d20. \n PLEASE NOTE THAT THE MODEL IS VALID FOR COEFFICIENTS OF UNIFORMITY Cu <~ 3.'
         info3 = 'Results of the HYPAGS model are saved in the local directory in the file HYPAGS_result.csv. \n for further use with MS EXCEL etc.'
