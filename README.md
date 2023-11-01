@@ -4,7 +4,7 @@
 
 
 Current version of the HYPAGS model and GUI executeable can be downloaded here:
-https://github.com/APeche/HYPAGS/releases/tag/Version1.2.2
+https://github.com/APeche/HYPAGS/releases
 
 For the use of the HYPAGS executeable do the following steps:
 
@@ -16,6 +16,8 @@ For the use of the HYPAGS executeable do the following steps:
 	
 The mathematical model, application range and use of the program described in:
 Peche A., & Houben, G. (2022). Estimating characteristic grain diameters and effective porosity from hydraulic conductivity data. Groundwater, Wiley, https://doi.org/10.1111/gwat.13266.
+
+Peche, A., Houben, G., & Altfelder, S. (2023). Approximation of van Genuchten parameter ranges from hydraulic conductivity data. Groundwater, Wiley.  https://doi.org/10.1111/gwat.13365
 
 This is a stand-alone GUI. No installation required.
 
