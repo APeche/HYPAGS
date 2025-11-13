@@ -31,3 +31,8 @@ The python code of the GUI is also provided in this repository
 Some aspects about the installation, practical use and insights are given in this video tutorial:
 
 https://www.youtube.com/watch?v=ikfyq0YEe2Y
+
+Note that HYPAGS is incorporated into the pedon package (Python package for (unsaturated) soil properties including pedotransfer functions) by Martin Vonk:
+https://github.com/martinvonk/pedon
+An example of the usage within pedon can be found here: 
+https://martinvonk.github.io/pedon/examples/04_hypags.html 
