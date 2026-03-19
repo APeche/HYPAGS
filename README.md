@@ -1,5 +1,5 @@
 ![GitHub License](https://img.shields.io/github/license/APeche/HYPAGS) [![https://doi.org/10.25928/5xpn-np63](https://img.shields.io/badge/DOI-10.25928%2F5xpn-np63?color=blue)](https://doi.org/10.25928/5xpn-np63)
-![Downloads](https://img.shields.io/github/downloads/APeche/HYPAGS/total) ![Code Size](https://img.shields.io/github/languages/code-size/APeche/HYPAGS)
+![Downloads](https://img.shields.io/github/downloads/APeche/HYPAGS/total) ![Code Size](https://img.shields.io/github/languages/code-size/APeche/HYPAGS) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #HYPAGS
 
