@@ -1,5 +1,6 @@
 ![GitHub License](https://img.shields.io/github/license/APeche/HYPAGS) [![https://doi.org/10.25928/5xpn-np63](https://img.shields.io/badge/DOI-10.25928%2F5xpn-np63?color=blue)](https://doi.org/10.25928/5xpn-np63)
-![Downloads](https://img.shields.io/github/downloads/APeche/HYPAGS/total) ![Code Size](https://img.shields.io/github/languages/code-size/APeche/HYPAGS) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Downloads](https://img.shields.io/github/downloads/APeche/HYPAGS/total) ![Code Size](https://img.shields.io/github/languages/code-size/APeche/HYPAGS) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Watchers](https://img.shields.io/github/watchers/APeche/HYPAGS?style=social) ![Stars](https://img.shields.io/github/stars/APeche/HYPAGS?style=social)
+![Forks](https://img.shields.io/github/forks/APeche/HYPAGS?style=social) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=APeche.HYPAGS)
 
 #HYPAGS
 
