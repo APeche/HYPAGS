@@ -8,6 +8,8 @@
 
 ![HYPAGS](https://user-images.githubusercontent.com/11518814/185891201-7e94ed60-8650-43b2-91f9-ee290c9effe9.png)
 
+For use of the HYPAGS web app, click: https://apeche.github.io/HYPAGS.html/
+
 
 Current version of the HYPAGS model and GUI executeable can be downloaded here:
 https://github.com/APeche/HYPAGS/releases
